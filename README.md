@@ -1,7 +1,7 @@
 # Hi 👋 My name is Phenyo
 🔭 I’m currently working as currently working as a software developer.
 
-##Socials
+## Socials
 <p align="left">
                           
  <a href="https://www.github.com/ppilatso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
