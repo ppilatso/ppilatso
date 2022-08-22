@@ -2,22 +2,12 @@
 🔭 I’m currently working as currently working as a software developer.
 
 <br/>
-<a href="https://www.github.com/tnarla" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ppilatso?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://www.twitch.tv/mewtru" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/ppilatso?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
+<a href="https://www.youtube.com/channel/UCaPc6cm1BW_qZgyWYZmuDtA"><img src="https://img.shields.io/youtube/channel/subscribers/UCbRP3c757lWg9M-U7TyEkXA?style=social" alt="Youtube" /></a>
+<a href="https://twitch.tv/phenyodev"><img src="https://img.shields.io/twitch/status/phenyodev?label=Twitch" alt="Twitch"></a>
 
 ## Socials
-<p align="left" style="display:flex;>
-                          
- <a href="https://www.github.com/ppilatso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.youtube.com/channel/UCaPc6cm1BW_qZgyWYZmuDtA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.twitch.tv/phenyodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-
-</p>
+Checkout my [YouTube](https://www.youtube.com/channel/UCaPc6cm1BW_qZgyWYZmuDtA), [Twitter](https://twitter.com/t3dotgg), [Twitch](https://twitch.tv/phenyodev).
 
 <!--
 **ppilatso/ppilatso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
