@@ -3,11 +3,11 @@
 
 <br/>
 
-<a href="https://www.youtube.com/channel/UCaPc6cm1BW_qZgyWYZmuDtA"><img src="https://img.shields.io/youtube/channel/subscribers/UCbRP3c757lWg9M-U7TyEkXA?style=social" alt="Youtube" /></a>
+<a href="https://www.youtube.com/channel/UCaPc6cm1BW_qZgyWYZmuDtA"><img src="https://img.shields.io/youtube/channel/subscribers/UCaPc6cm1BW_qZgyWYZmuDtA?style=social" alt="Youtube" /></a>
 <a href="https://twitch.tv/phenyodev"><img src="https://img.shields.io/twitch/status/phenyodev?label=Twitch" alt="Twitch"></a>
 
 ## Socials
-Checkout my [YouTube](https://www.youtube.com/channel/UCaPc6cm1BW_qZgyWYZmuDtA), [Twitter](https://twitter.com/t3dotgg), [Twitch](https://twitch.tv/phenyodev).
+Checkout my [YouTube](https://www.youtube.com/channel/UCaPc6cm1BW_qZgyWYZmuDtA), [Twitch](https://twitch.tv/phenyodev).
 
 <!--
 **ppilatso/ppilatso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
