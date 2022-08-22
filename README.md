@@ -1,6 +1,13 @@
 # Hi 👋 My name is Phenyo
 🔭 I’m currently working as currently working as a software developer.
 
+<br/>
+<a href="https://www.github.com/tnarla" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/ppilatso?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.twitch.tv/mewtru" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitch/status/ppilatso?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
+
 ## Socials
 <p align="left" style="display:flex;>
                           
