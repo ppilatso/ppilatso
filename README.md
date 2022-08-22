@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is Phenyo Pilatso
+#🔭 I’m currently working as currently working as a software developer.
 
 <!--
 **ppilatso/ppilatso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
