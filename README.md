@@ -1,5 +1,5 @@
 # Hi 👋 My name is Phenyo
-🔭 I’m currently working as currently working as a software developer.
+🔭 I’m a software developer.
 
 <br/>
 
