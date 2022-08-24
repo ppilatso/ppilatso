@@ -1,7 +1,7 @@
 # Hi 👋 My name is Phenyo
 🔭 I’m a software developer.
 
-https://cradle-prod.vercel.app/
+cradle-prod.vercel.app/
 
 <br/>
 
