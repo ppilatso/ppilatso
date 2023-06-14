@@ -4,4 +4,3 @@
 www.ppilatso.com
 
 <br/>
-![alt text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
