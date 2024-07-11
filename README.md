@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Phenyo "Bafana" Pilatso</h1>
+<h1 align="center">Hi, I'm Phenyo "Bafana" Pilatso <img style="height:24px;" alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /></h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ppilatso&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
@@ -6,13 +6,41 @@
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
+
 <div align="center">
- <img style="height:66px;" alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+  <h2>Contact Me</h2>
+
+  <div style="display: flex;">
+    <div style="flex: 1;">
+      <p>
+        <a href="mailto:[pilatsophenyo@gmail.com]">
+          <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>
+        </a>
+      </p>
+    </div>
+    <div style="flex: 1;">
+      <p>
+        <a href="mailto:[pilatsophenyol.com]">
+          <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width="120"/>
+        </a>
+      </p>
+    </div>
+    <div style="flex: 1;">
+      <p>
+        <a href="https://www.linkedin.com/in/phpilatso">
+          <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/>
+        </a>
+      </p>
+    </div>
+  </div>
+
+
+  
 </div>
 
-<br />
-
 <div align="center">
+  <h2>Stats</h2>
+
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=ppilatso&show_icons=true&theme=dark"
@@ -24,4 +52,8 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=ppilatso&show_icons=true" />
   </picture>
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppilatso&show_icons=true&theme=dark)](https://github.com/ppilatso/github-readme-stats)
+
 </div>
