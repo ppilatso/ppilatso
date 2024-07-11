@@ -10,4 +10,4 @@
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 
-![Phenyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppilatso)](https://github.com/ppilatso/github-readme-stats)
+[![Phenyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppilatso)](https://github.com/ppilatso/github-readme-stats)
