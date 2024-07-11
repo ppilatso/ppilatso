@@ -11,7 +11,6 @@
 </div>
 
 <br />
-[![Phenyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppilatso)](https://github.com/ppilatso/github-readme-stats)
 
 <picture>
   <source
