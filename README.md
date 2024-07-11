@@ -8,7 +8,15 @@
 </h2>
 
 <div align="center">
-  <h2>Contact Me</h2>
+  <h3>About Me</h3>
+
+  <p>
+    I'm a fullstack developer with a passion for building scalable and efficient web applications. When I'm not coding, you can find me watching football, listening to music or hiking. I'm always up for a challenge and love to learn new things.
+  </p>
+</div>
+
+<div align="center">
+  <h3>Contact Me</h3>
 
   <div style="display: flex;">
     <div style="flex: 1;">
@@ -33,13 +41,10 @@
       </p>
     </div>
   </div>
-
-
-  
 </div>
 
 <div align="center">
-  <h2>Stats</h2>
+  <h3>Stats</h3>
 
   <picture>
     <source
