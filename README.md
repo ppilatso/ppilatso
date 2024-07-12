@@ -18,23 +18,17 @@
 <div align="center">
   <h3>Contact Me</h3>
 
-  <div style="display: flex;">
+  <div>
     <div style="flex: 1;">
       <p>
         <a href="mailto:[pilatsophenyo@gmail.com]">
           <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>
         </a>
-      </p>
-    </div>
-    <div style="flex: 1;">
-      <p>
+
         <a href="mailto:[pilatsophenyol.com]">
           <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width="120"/>
         </a>
-      </p>
-    </div>
-    <div style="flex: 1;">
-      <p>
+
         <a href="https://www.linkedin.com/in/phpilatso">
           <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/>
         </a>
