@@ -48,9 +48,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ppilatso&show_icons=true" />
   </picture>
 
-  <p>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppilatso&show_icons=true&theme=dark)](https://github.com/ppilatso/github-readme-stats)
-    <a href="https://app.daily.dev/phpilatso"><img src="https://api.daily.dev/devcards/v2/s8KT8uzMfNhPbfJbRUShJ.png?type=default&r=kc9" width="356" alt="Phenyo Pilatso's       Dev Card"/>
-    </a>
-  </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppilatso&show_icons=true&theme=dark)](https://github.com/ppilatso/github-readme-stats)
+
+  <a href="https://app.daily.dev/phpilatso"><img src="https://api.daily.dev/devcards/v2/s8KT8uzMfNhPbfJbRUShJ.png?type=default&r=kc9" width="356" alt="Phenyo Pilatso's       Dev Card"/>
+  </a>
 </div>
