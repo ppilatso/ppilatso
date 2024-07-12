@@ -20,13 +20,13 @@
 
   <div>
      <p>
-        <a href="mailto:[pilatsophenyo@gmail.com]">
+        <a href="mailto:[pilatsophenyo@gmail.com]" target=”_blank”>
           <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>
         </a>
-        <a href="https://www.youtube.com/@PhenyoPilatso">
+        <a href="https://www.youtube.com/@PhenyoPilatso" target=”_blank”>
           <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width="120"/>
         </a>
-        <a href="https://www.linkedin.com/in/phpilatso">
+        <a href="https://www.linkedin.com/in/phpilatso" target=”_blank”>
           <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/>
         </a>
       </p>
