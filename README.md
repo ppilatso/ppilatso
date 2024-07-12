@@ -15,7 +15,7 @@
   </p>
 </div>
 
-<div>
+<div align="center">
   <h3>Contact Me</h3>
 
   <div style="display: flex;">
