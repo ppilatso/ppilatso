@@ -51,8 +51,15 @@
   <div align="center"> 
     <table style="border: none;">
       <tr>
-        <td style="border: none;"><a href="https://github.com/ppilatso/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppilatso&show_icons=true&theme=dark" alt="WakaTime" width="1000px" /></a></td>
-        <td style="border: none;"><a href="https://app.daily.dev/phpilatso"><img src="https://api.daily.dev/devcards/v2/s8KT8uzMfNhPbfJbRUShJ.png?type=default&r=kc9" alt="WakaTime" width="800px" /></a></td>
+        <td style="border: none;">
+          <a href="https://github.com/ppilatso/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppilatso&show_icons=true&theme=dark" alt="WakaTime" width="800px" />
+          </a>
+        </td>
+        <td style="border: none;">
+          <a href="https://app.daily.dev/phpilatso">
+            <img src="https://api.daily.dev/devcards/v2/s8KT8uzMfNhPbfJbRUShJ.png?type=default&r=kc9" alt="WakaTime" width="600px" /></a>
+        </td>
       </tr>
     </table>
   </div>
