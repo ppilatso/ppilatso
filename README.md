@@ -2,7 +2,7 @@
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ppilatso&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
-  <a href="https://ppilatso.com">
+  <a href="https://light-sword-2mrq.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
