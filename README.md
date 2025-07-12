@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Phenyo "Bafana" Pilatso 
+<h1 align="center">Hi, I'm Phenyo "Bafana" Pilatso <br>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFyZjAweDYwdGZkbG14djVlY3dpMGVvYmIwbDUwMHdmbWlqZml3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBYS8BKhCvK/giphy.gif" width="400" height="400" />
 </h1>
 <h2 align="center">
