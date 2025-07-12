@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Phenyo "Bafana" Pilatso <br>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFyZjAweDYwdGZkbG14djVlY3dpMGVvYmIwbDUwMHdmbWlqZml3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBYS8BKhCvK/giphy.gif" width="400" height="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFyZjAweDYwdGZkbG14djVlY3dpMGVvYmIwbDUwMHdmbWlqZml3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBYS8BKhCvK/giphy.gif" width="300" height="300" />
 </h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ppilatso&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
